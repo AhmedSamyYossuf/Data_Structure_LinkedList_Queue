@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1576105418 source:c:\users\ahmed\desktop\amit\test_files\main.cpp
+	"LinkedList.h"
+	"queue.h"
+	"queueLinkedList.h"
+	<iostream>
+
+1576021163 c:\users\ahmed\desktop\amit\test_files\file.h
+
+1576146797 c:\users\ahmed\desktop\amit\test_files\linkedlist.h
+
+1576025872 source:c:\users\ahmed\desktop\amit\test_files\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1576115150 c:\users\ahmed\desktop\amit\test_files\queue.h
+
+1576027692 source:c:\users\ahmed\desktop\amit\test_files\queue.cpp
+	"queue.h"
+	<iostream>
+
+1576116645 c:\users\ahmed\desktop\amit\test_files\queuelinkedlist.h
+	"LinkedList.h"
+
+1576092084 source:c:\users\ahmed\desktop\amit\test_files\queuelinkedlist.cpp
+	"queueLinkedList.h"
+	<iostream>
+
